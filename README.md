@@ -1,3 +1,3 @@
 # maplibre
 
-https://ryosukesawaki.github.io/maplibregljs3Dmap/gljs3Dmap
+https://ryosukesawaki.github.io/maplibregljs3Dmap/
